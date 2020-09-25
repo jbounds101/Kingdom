@@ -1,0 +1,1 @@
+Fix the slash sound not playing properly always

@@ -1,0 +1,1 @@
+keyboard_lastkey = -1;

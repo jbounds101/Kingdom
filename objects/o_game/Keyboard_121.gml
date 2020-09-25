@@ -1,0 +1,1 @@
+global.score_points += 100;

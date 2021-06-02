@@ -9,6 +9,7 @@ Shoot: Left Mouse <br>
 Blink: Q <br>
 Upgrade: Escape <br>
 
+![image](https://user-images.githubusercontent.com/70382763/120469765-cbed1d80-c370-11eb-8345-a36e0cac27e3.png)
 ![image](https://user-images.githubusercontent.com/70382763/120467732-74e64900-c36e-11eb-8d26-0c44e3dedd00.png)
 
 

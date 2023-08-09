@@ -1,4 +1,6 @@
 # Kingdom
+<b>All of the code, sprites, textures, sounds, and animations are custom made!</b><br>
+
 A side scrolling arcade game in which the player attempts to survive the incoming hordes of enemies.<br>
 <b>Install</b>: [Windows 10](https://drive.google.com/drive/folders/1hyC3Yei92fugtJgrl-SnNablw6UshiIm?usp=sharing) (Can't confirm if Kingdom runs properly on other OS)
 

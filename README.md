@@ -1,5 +1,5 @@
 # Kingdom
-<b>All of the code, sprites, textures, sounds, and animations are custom made!</b><br>
+An arcade-style game that I developed in my highschool senior game-design class. The main gameplay is that the player survives for as long as possible while enemies become stronger and more abundant. This was a ~2 month project where I completely built this game from the ground-up, including all code, art, music, sounds, animations, etc. The entire project was built inside GameMaker Studio with GameMaker language, which provided a robust toolset for game design and introduced me to many object-oriented programming practices.
 
 A side scrolling arcade game in which the player attempts to survive the incoming hordes of enemies.<br>
 <b>Install</b>: [Windows 10](https://drive.google.com/drive/folders/1hyC3Yei92fugtJgrl-SnNablw6UshiIm?usp=sharing) (Can't confirm if Kingdom runs properly on other OS)
